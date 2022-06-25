@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @riatoom
+- 👋 Hi, I’m riatoom
 - 👀 I’m interested in java c++ python
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-riatoom/riatoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate with my team
+- 📫 How to reach me riatoom@proton.me
